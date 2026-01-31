@@ -1,6 +1,6 @@
 # Hello, I'm Kerim Alrubaiei
 <a href="https://www.linkedin.com/in/kerim-alrubaiei-b72a28158/">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white%22 />
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white%22 />
 </a>
  
 I am a motivated professional with a background in ICT and financial administration.  
